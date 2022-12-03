@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b176620-a8f2-4f47-a35c-b98546aba456" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prodjectbaseconverter0201.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseConverter.java" afterDir="false" />
+    <list default="true" id="3b176620-a8f2-4f47-a35c-b98546aba456" name="Changes" comment="upadates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +43,11 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="BaseConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaseConverter" />
@@ -73,8 +73,17 @@
       <workItem from="1668608525522" duration="1337000" />
       <workItem from="1668785708470" duration="5864000" />
       <workItem from="1669651644090" duration="1733000" />
-      <workItem from="1669653897189" duration="1761000" />
+      <workItem from="1669653897189" duration="12987000" />
+      <workItem from="1670003217831" duration="1196000" />
     </task>
+    <task id="LOCAL-00001" summary="upadates">
+      <created>1669815119221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669815119221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upadates" />
+    <option name="LAST_COMMIT_MESSAGE" value="upadates" />
   </component>
 </project>
